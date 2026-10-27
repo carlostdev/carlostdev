@@ -1,16 +1,22 @@
-## Hi there 👋
+# Carlos Torres
 
-<!--
-**carlostdev/carlostdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior .NET / C# developer based in Mexico, working remotely on Australia-facing teams. I've written C# professionally since 2014.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **B2B e-commerce on nopCommerce.** I took over a multi-tenant B2B platform at one storefront and scaled it to 37, including the provisioning and bulk-import tooling.
+- **ERP integrations.** Microsoft Dynamics NAV, JIWA and Peach, keeping stores and back-office systems in sync.
+- **REST APIs and payment plugins.** ASP.NET Core, Entity Framework Core and SQL Server, hosted on AWS and IIS with CI/CD.
+
+## Why most of it isn't here
+
+My professional work is client code under NDA, so it doesn't live on this profile. I'm happy to walk through the architecture and the trade-offs on a call.
+
+## What is here
+
+- **[TOVORAI](https://github.com/carlostdev/TOVORAI):** a Monte Carlo Tree Search agent for a fighting-game AI competition (Java).
+- **Coursework:** Udacity nanodegree projects.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/carlost3)
