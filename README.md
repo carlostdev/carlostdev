@@ -19,4 +19,4 @@ My professional work is client code under NDA, so it doesn't live on this profil
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/carlost3)
+[LinkedIn](https://www.linkedin.com/in/carlostorresit)
